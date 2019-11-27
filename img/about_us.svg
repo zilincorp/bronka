@@ -1,0 +1,36 @@
+<svg width="99" height="100" viewBox="0 0 99 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 94C73.7482 94 93 74.5244 93 50.5C93 26.4756 73.7482 7 50 7C26.2518 7 7 26.4756 7 50.5C7 74.5244 26.2518 94 50 94Z" stroke="url(#paint0_linear)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M49.5 99C76.2858 99 98 77.062 98 50C98 22.938 76.2858 1 49.5 1C22.7142 1 1 22.938 1 50C1 77.062 22.7142 99 49.5 99Z" stroke="url(#paint1_linear)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M49.5 84C68.0015 84 83 68.7777 83 50C83 31.2223 68.0015 16 49.5 16C30.9985 16 16 31.2223 16 50C16 68.7777 30.9985 84 49.5 84Z" stroke="url(#paint2_linear)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 69C60.4934 69 69 60.4934 69 50C69 39.5066 60.4934 31 50 31C39.5066 31 31 39.5066 31 50C31 60.4934 39.5066 69 50 69Z" stroke="url(#paint3_linear)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 56C53.3137 56 56 53.3137 56 50C56 46.6863 53.3137 44 50 44C46.6863 44 44 46.6863 44 50C44 53.3137 46.6863 56 50 56Z" stroke="url(#paint4_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="7" y1="7" x2="7" y2="94" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.137593"/>
+<stop offset="0.500581" stop-color="#CBCBCB"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="1" y1="1" x2="1" y2="99" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.137593"/>
+<stop offset="0.500581" stop-color="#CBCBCB"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="16" y1="16" x2="16" y2="84" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.137593"/>
+<stop offset="0.500581" stop-color="#CBCBCB"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="31" y1="31" x2="31" y2="69" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.137593"/>
+<stop offset="0.500581" stop-color="#CBCBCB"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="44" y1="44" x2="44" y2="56" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.137593"/>
+<stop offset="0.500581" stop-color="#CBCBCB"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+</defs>
+</svg>
